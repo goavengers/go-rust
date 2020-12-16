@@ -1,2 +1,2 @@
 # go-rust
-Rust language for Golang developers
+Rust language for Golang developers (comming soon)
